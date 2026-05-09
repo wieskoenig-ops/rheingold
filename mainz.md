@@ -82,3 +82,6 @@ Für einen Thriller relevant: Die Stadt hat zwischen Boom und Ernüchterung eine
 4. **Stadtfinanzen und Stadtpolitik:** Die BioNTech-Einnahmen haben politische Entscheidungen ermöglicht, die sonst nicht möglich gewesen wären. Wer hat von diesen Entscheidungen profitiert? Was wurde finanziert, was wäre sonst nicht finanziert worden?
 
 5. **Internationalisierung:** Mainz war eine Provinzhauptstadt. BioNTech hat internationale Aufmerksamkeit erzeugt, internationale Forscher angezogen, internationale Investoren. Eine Stadt, die sich selbst dabei beobachtet, wie sie sich verändert — und nicht sicher ist, was sie dabei verliert.
+
+6. ## Aktuelle Ereignisse
+- [wird vor Sessionstart per Websuche ergänzt]
