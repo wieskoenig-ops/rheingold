@@ -1,4 +1,37 @@
-# Weltbuch — TransProteome / Mainz-Thriller
+# Weltbuch-Eintrag: Episoden 1–3
+
+**Zeitraum:** Samstag, 9. Mai bis Montag, 11. Mai 2026
+
+-----
+
+## Ereignisse
+
+Marcel Signac verlässt am Samstagabend das Labor früher als sonst, weil Workpackage 3 nicht vorankommt, ohne dass er benennen könnte, woran es liegt. Er fährt mit der Straßenbahn in die Altstadt, setzt sich ins Altstadtcafé in der Schönbornstraße, das abends als Weinstube funktioniert. Eine Frau setzt sich an den Nachbartisch und spricht ihn an, unter dem Vorwand, keinen Platz zu finden. Sie heißt Monika Groß, nennt eine neue Stelle bei einem kleinen Institut, lässt Details offen. Das Gespräch entwickelt sich länger als erwartet. Sie gehen gemeinsam am Rhein, verabschieden sich am Brückenaufgang. Sie schlägt ein Mittagessen am Montag vor, am Campus. Er sagt zu.
+
+Der Sonntag verläuft ohne Besonderheiten. Marcel läuft morgens am Rhein, arbeitet nachmittags an den Daten, ohne Durchbruch. Er denkt an das Gespräch, ohne es zu analysieren.
+
+Am Montag treffen sie sich im Campino, dem neuen Lokal am Life Science Campus. Monika erwähnt beiläufig Workpackage 3 beim Namen. Marcel ist sicher, es am Samstag nicht genannt zu haben. Sie erklärt es mit der öffentlichen Horizon-Datenbank, was sachlich stimmt. Er stellt keine weitere Frage dazu, aber etwas verschiebt sich. Er fragt nach ihrem Institut. Sie nennt es: Institute for Science Governance and Biosafety, Mainz, gegründet Anfang 2026. Ihre Antworten sind präzise und geben wenig preis. Das Gespräch endet freundlich, ohne Auflösung.
+
+Am Nachmittag googelt Marcel das Institut. Die Website existiert, ist schlicht, professionell und ohne Funding-Angaben. Unter “Team” drei Namen, Monika Groß darunter. Er schließt den Browser, ohne weiterzusuchen. Im Gespräch mit Andrei Varga erfährt er, dass das Modell seit drei Wochen in einem bestimmten Konzentrationsbereich an Trennschärfe verliert und Andrei das bisher für sich behalten hatte. Marcel setzt durch, dass solche Probleme künftig offen besprochen werden. Er arbeitet bis nach acht, allein, die Rohdaten von vorne.
+
+-----
+
+## Charakterentwicklung
+
+**Marcel Signac:** Beobachtet genau, zieht aber noch keine Schlüsse. Das Zögern in Monikas Antworten registriert er, ohne es zu bewerten. Im Labor zeigt er zum ersten Mal Führungsverhalten gegenüber Andrei.
+
+**Monika Groß:** Hat das Treffen vorbereitet. Weiß mehr über TransProteome als ein zufälliger Kontakt wissen würde. Gibt das auf Nachfrage teilweise zu, ohne die eigentliche Motivation zu nennen. Eine Lüge hat sie nicht gesagt. Eine vollständige Wahrheit auch nicht.
+
+**Andrei Varga:** Hält Probleme zurück, bis sie sich nicht mehr halten lassen. Behandelt das Scheitern eines Modells als persönliche Angelegenheit.
+
+-----
+
+## Offene Fäden
+
+- Workpackage 3 divergiert in einem biologisch relevanten Konzentrationsbereich. Ursache unbekannt.
+- Monikas Institut hat keine öffentlichen Funding-Angaben. Die Website ist zwei Monate alt.
+- Monika wusste den Namen von Workpackage 3, bevor Marcel ihn nannte. Ihre Erklärung ist plausibel und reicht nicht ganz.
+- Das nächste Gespräch zwischen Marcel und Monika steht aus.# Weltbuch — TransProteome / Mainz-Thriller
 
 -----
 
@@ -72,3 +105,38 @@ Das EU-Projekt beschreibt Computermodelle. In der Praxis hat das Team begonnen, 
 - Welche Verbindung besteht zwischen TransProteome und dem TRON/HI-TRON-Netzwerk?
 - Wozu braucht der Think-Tank Informationen über ein kleines EU-Startup in der Prionen-Diagnostik?
 - Was zeigen die Labordaten in Workpackage 3 wirklich?
+
+# Weltbuch-Eintrag: Episoden 1–3
+
+**Zeitraum:** Samstag, 9. Mai bis Montag, 11. Mai 2026
+
+-----
+
+## Ereignisse
+
+Marcel Signac verlässt am Samstagabend das Labor früher als sonst, weil Workpackage 3 nicht vorankommt, ohne dass er benennen könnte, woran es liegt. Er fährt mit der Straßenbahn in die Altstadt, setzt sich ins Altstadtcafé in der Schönbornstraße, das abends als Weinstube funktioniert. Eine Frau setzt sich an den Nachbartisch und spricht ihn an, unter dem Vorwand, keinen Platz zu finden. Sie heißt Monika Groß, nennt eine neue Stelle bei einem kleinen Institut, lässt Details offen. Das Gespräch entwickelt sich länger als erwartet. Sie gehen gemeinsam am Rhein, verabschieden sich am Brückenaufgang. Sie schlägt ein Mittagessen am Montag vor, am Campus. Er sagt zu.
+
+Der Sonntag verläuft ohne Besonderheiten. Marcel läuft morgens am Rhein, arbeitet nachmittags an den Daten, ohne Durchbruch. Er denkt an das Gespräch, ohne es zu analysieren.
+
+Am Montag treffen sie sich im Campino, dem neuen Lokal am Life Science Campus. Monika erwähnt beiläufig Workpackage 3 beim Namen. Marcel ist sicher, es am Samstag nicht genannt zu haben. Sie erklärt es mit der öffentlichen Horizon-Datenbank, was sachlich stimmt. Er stellt keine weitere Frage dazu, aber etwas verschiebt sich. Er fragt nach ihrem Institut. Sie nennt es: Institute for Science Governance and Biosafety, Mainz, gegründet Anfang 2026. Ihre Antworten sind präzise und geben wenig preis. Das Gespräch endet freundlich, ohne Auflösung.
+
+Am Nachmittag googelt Marcel das Institut. Die Website existiert, ist schlicht, professionell und ohne Funding-Angaben. Unter “Team” drei Namen, Monika Groß darunter. Er schließt den Browser, ohne weiterzusuchen. Im Gespräch mit Andrei Varga erfährt er, dass das Modell seit drei Wochen in einem bestimmten Konzentrationsbereich an Trennschärfe verliert und Andrei das bisher für sich behalten hatte. Marcel setzt durch, dass solche Probleme künftig offen besprochen werden. Er arbeitet bis nach acht, allein, die Rohdaten von vorne.
+
+-----
+
+## Charakterentwicklung
+
+**Marcel Signac:** Beobachtet genau, zieht aber noch keine Schlüsse. Das Zögern in Monikas Antworten registriert er, ohne es zu bewerten. Im Labor zeigt er zum ersten Mal Führungsverhalten gegenüber Andrei.
+
+**Monika Groß:** Hat das Treffen vorbereitet. Weiß mehr über TransProteome als ein zufälliger Kontakt wissen würde. Gibt das auf Nachfrage teilweise zu, ohne die eigentliche Motivation zu nennen. Eine Lüge hat sie nicht gesagt. Eine vollständige Wahrheit auch nicht.
+
+**Andrei Varga:** Hält Probleme zurück, bis sie sich nicht mehr halten lassen. Behandelt das Scheitern eines Modells als persönliche Angelegenheit.
+
+-----
+
+## Offene Fäden
+
+- Workpackage 3 divergiert in einem biologisch relevanten Konzentrationsbereich. Ursache unbekannt.
+- Monikas Institut hat keine öffentlichen Funding-Angaben. Die Website ist zwei Monate alt.
+- Monika wusste den Namen von Workpackage 3, bevor Marcel ihn nannte. Ihre Erklärung ist plausibel und reicht nicht ganz.
+- Das nächste Gespräch zwischen Marcel und Monika steht aus.
