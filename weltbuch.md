@@ -71,13 +71,35 @@ Das EU-Projekt beschreibt Computermodelle. In der Praxis hat das Team begonnen, 
 
 ## Ereignisse
 
-Marcel Signac verlässt am freitag nachmittag das Labor früher als sonst, weil Workpackage 3 nicht vorankommt, ohne dass er benennen könnte, woran es liegt. Er fährt mit der Straßenbahn in die Altstadt, setzt sich ins Altstadtcafé in der Schönbornstraße, das abends als Weinstube funktioniert. Eine Frau setzt sich an den Nachbartisch und spricht ihn an, unter dem Vorwand, keinen Platz zu finden. Sie heißt Monika Groß, nennt eine neue Stelle bei einem kleinen Institut, lässt Details offen. Das Gespräch entwickelt sich länger als erwartet. Sie gehen gemeinsam am Rhein, verabschieden sich am Brückenaufgang. Sie schlägt ein Mittagessen am Montag vor, am Campus. Er sagt zu.
-
+vorgeschichte. Marcel Signac verlässt am freitag nachmittag das Labor früher als sonst, weil Workpackage 3 nicht vorankommt, ohne dass er benennen könnte, woran es liegt. Er fährt mit der Straßenbahn in die Altstadt, setzt sich ins Altstadtcafé in der Schönbornstraße, das abends als Weinstube funktioniert. Eine Frau setzt sich an den Nachbartisch und spricht ihn an, unter dem Vorwand, keinen Platz zu finden. Sie heißt Monika Groß, nennt eine neue Stelle bei einem kleinen Institut, lässt Details offen. Das Gespräch entwickelt sich länger als erwartet. Sie gehen gemeinsam am Rhein, verabschieden sich am Brückenaufgang. Sie schlägt ein Mittagessen am Montag vor, am Campus. Er sagt zu.
 Der samstag verläuft ohne Besonderheiten. Marcel läuft morgens am Rhein, arbeitet nachmittags an den Daten, ohne Durchbruch. Er denkt an das Gespräch, ohne es zu analysieren.
 
 Am samstag  treffen sie sich im Campino, dem neuen Lokal am Life Science Campus. Monika erwähnt beiläufig Workpackage 3 beim Namen. Marcel ist sicher, es am freitag nicht genannt zu haben. Sie erklärt es mit der öffentlichen Horizon-Datenbank, was sachlich stimmt. Er stellt keine weitere Frage dazu, aber etwas verschiebt sich. Er fragt nach ihrem Institut. Sie nennt es: Institute for Science Governance and Biosafety, Mainz, gegründet Anfang 2026. Ihre Antworten sind präzise und geben wenig preis. Das Gespräch endet freundlich, ohne Auflösung.
-
 Am Nachmittag googelt Marcel das Institut. Die Website existiert, ist schlicht, professionell und ohne Funding-Angaben. Unter “Team” drei Namen, Monika Groß darunter. Er schließt den Browser, ohne weiterzusuchen. Im Gespräch mit Andrei Varga erfährt er, dass das Modell seit drei Wochen in einem bestimmten Konzentrationsbereich an Trennschärfe verliert und Andrei das bisher für sich behalten hatte. Marcel setzt durch, dass solche Probleme künftig offen besprochen werden. Er arbeitet bis nach acht, allein, die Rohdaten von vorne.
+## Episode 1 — Sonntag, 10. Mai 2026
+
+**Ereignisse**
+Marcel geht sonntagmorgens kurz ins Institut, findet keine 
+neuen Antworten zu Workpackage 3. Läuft danach an der 
+Rheinpromenade. Schreibt Monika Groß eine Nachricht, trifft 
+sie spontan zum Kaffee im Kirschgarten. Sie erwähnt den 
+CIMT-Abendempfang morgen, ohne ihn direkt einzuladen. 
+Marcel antwortet nicht darauf. Auf dem Heimweg ruft Yael 
+an: eine schriftliche Anfrage vom DKFZ, Thema Workpackage 3, 
+Treffen morgen früh um acht.
+
+**Charakterentwicklung**
+Marcel hält Distanz zu Monika, gibt aber weniger preis als 
+er denkt. Monika zeigt erstmals etwas Persönliches — Bonn, 
+Brüssel, die Grauzone. Ob es stimmt, bleibt offen.
+
+**Neue offene Fäden**
+- DKFZ-Anfrage zu Workpackage 3: Inhalt unbekannt, Timing 
+  auffällig — einen Tag vor CIMT-Kongress.
+- Monika kannte die Formulierung "das Alte und das 
+  Revolutionäre" zu präzise für jemanden, der neu in 
+  der Stadt ist.
+- Abendempfang morgen: kommt Marcel?
 
 -----
 
@@ -89,11 +111,5 @@ Am Nachmittag googelt Marcel das Institut. Die Website existiert, ist schlicht, 
 
 **Andrei Varga:** Hält Probleme zurück, bis sie sich nicht mehr halten lassen. Behandelt das Scheitern eines Modells als persönliche Angelegenheit.
 
------
-
-## Offene Fäden
-
-- Workpackage 3 divergiert in einem biologisch relevanten Konzentrationsbereich. Ursache unbekannt.
-- Monikas Institut hat keine öffentlichen Funding-Angaben. Die Website ist zwei Monate alt.
-- Monika wusste den Namen von Workpackage 3, bevor Marcel ihn nannte. Ihre Erklärung ist plausibel und reicht nicht ganz.
-- Das nächste Gespräch zwischen Marcel und Monika steht aus.
+----
+- 
