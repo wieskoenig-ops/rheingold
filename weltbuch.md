@@ -1,14 +1,6 @@
 
 
-## Zeitkontext: 9. Mai 2026
-
-**Wetter Mainz, heute:** Bewölkt, 18–21 Grad, Sonnenuntergang um 20:56 Uhr. Kein Regen heute, aber die Woche bleibt wechselhaft. Ein später Frühlingsabend, noch hell bis kurz vor neun.
-
-**Stadtgespräch:** In zwei Tagen beginnt das 23. CIMT Annual Meeting in der Rheingoldhalle — Europas größte Fachkonferenz für Krebsimmuntherapie, 700 bis 900 Forscher aus aller Welt, drei Tage lang. Die Hotels sind ausgebucht. In den Weinstuben um den Dom sitzen bereits die ersten früh angereisten Konferenzteilnehmer, zu erkennen an den Lanyard-Schlaufen um den Hals und dem halblauten Englisch an den Tischen. Die Rheingoldhalle am Rheinufer wird gerade bestuhlt.
-
-**International:** Die Straße von Hormus ist seit Wochen angespannt — Ölpreis über 110 Dollar, Nachrichten-Dauerton im Hintergrund. Trump und Xi treffen sich Mitte Mai in Peking. In Leipzig trauern Menschen nach einem Autoanschlag auf eine Menschenmenge in der Altstadt. Die Biennale Venedig hat eröffnet.
-
------
+## 
 
 ## TransProteome GmbH (fiktiv)
 
@@ -71,19 +63,19 @@ Das EU-Projekt beschreibt Computermodelle. In der Praxis hat das Team begonnen, 
 - Wozu braucht der Think-Tank Informationen über ein kleines EU-Startup in der Prionen-Diagnostik?
 - Was zeigen die Labordaten in Workpackage 3 wirklich?
 
-# Weltbuch-Eintrag: Episoden 1–3
+# Weltbuch-Eintrag: vorgeschichte 
 
-**Zeitraum:** Samstag, 9. Mai bis Montag, 11. Mai 2026
+**Zeitraum:** anpassen
 
 -----
 
 ## Ereignisse
 
-Marcel Signac verlässt am Samstagabend das Labor früher als sonst, weil Workpackage 3 nicht vorankommt, ohne dass er benennen könnte, woran es liegt. Er fährt mit der Straßenbahn in die Altstadt, setzt sich ins Altstadtcafé in der Schönbornstraße, das abends als Weinstube funktioniert. Eine Frau setzt sich an den Nachbartisch und spricht ihn an, unter dem Vorwand, keinen Platz zu finden. Sie heißt Monika Groß, nennt eine neue Stelle bei einem kleinen Institut, lässt Details offen. Das Gespräch entwickelt sich länger als erwartet. Sie gehen gemeinsam am Rhein, verabschieden sich am Brückenaufgang. Sie schlägt ein Mittagessen am Montag vor, am Campus. Er sagt zu.
+Marcel Signac verlässt am freitag nachmittag das Labor früher als sonst, weil Workpackage 3 nicht vorankommt, ohne dass er benennen könnte, woran es liegt. Er fährt mit der Straßenbahn in die Altstadt, setzt sich ins Altstadtcafé in der Schönbornstraße, das abends als Weinstube funktioniert. Eine Frau setzt sich an den Nachbartisch und spricht ihn an, unter dem Vorwand, keinen Platz zu finden. Sie heißt Monika Groß, nennt eine neue Stelle bei einem kleinen Institut, lässt Details offen. Das Gespräch entwickelt sich länger als erwartet. Sie gehen gemeinsam am Rhein, verabschieden sich am Brückenaufgang. Sie schlägt ein Mittagessen am Montag vor, am Campus. Er sagt zu.
 
-Der Sonntag verläuft ohne Besonderheiten. Marcel läuft morgens am Rhein, arbeitet nachmittags an den Daten, ohne Durchbruch. Er denkt an das Gespräch, ohne es zu analysieren.
+Der samstag verläuft ohne Besonderheiten. Marcel läuft morgens am Rhein, arbeitet nachmittags an den Daten, ohne Durchbruch. Er denkt an das Gespräch, ohne es zu analysieren.
 
-Am Montag treffen sie sich im Campino, dem neuen Lokal am Life Science Campus. Monika erwähnt beiläufig Workpackage 3 beim Namen. Marcel ist sicher, es am Samstag nicht genannt zu haben. Sie erklärt es mit der öffentlichen Horizon-Datenbank, was sachlich stimmt. Er stellt keine weitere Frage dazu, aber etwas verschiebt sich. Er fragt nach ihrem Institut. Sie nennt es: Institute for Science Governance and Biosafety, Mainz, gegründet Anfang 2026. Ihre Antworten sind präzise und geben wenig preis. Das Gespräch endet freundlich, ohne Auflösung.
+Am samstag  treffen sie sich im Campino, dem neuen Lokal am Life Science Campus. Monika erwähnt beiläufig Workpackage 3 beim Namen. Marcel ist sicher, es am freitag nicht genannt zu haben. Sie erklärt es mit der öffentlichen Horizon-Datenbank, was sachlich stimmt. Er stellt keine weitere Frage dazu, aber etwas verschiebt sich. Er fragt nach ihrem Institut. Sie nennt es: Institute for Science Governance and Biosafety, Mainz, gegründet Anfang 2026. Ihre Antworten sind präzise und geben wenig preis. Das Gespräch endet freundlich, ohne Auflösung.
 
 Am Nachmittag googelt Marcel das Institut. Die Website existiert, ist schlicht, professionell und ohne Funding-Angaben. Unter “Team” drei Namen, Monika Groß darunter. Er schließt den Browser, ohne weiterzusuchen. Im Gespräch mit Andrei Varga erfährt er, dass das Modell seit drei Wochen in einem bestimmten Konzentrationsbereich an Trennschärfe verliert und Andrei das bisher für sich behalten hatte. Marcel setzt durch, dass solche Probleme künftig offen besprochen werden. Er arbeitet bis nach acht, allein, die Rohdaten von vorne.
 
