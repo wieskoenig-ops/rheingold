@@ -15,6 +15,7 @@
 - Erster nach ca. 400-500 Wörtern — Handlungsentscheidung
 - Zweiter am Ende — Charakterentscheidung
 - Buttons für schnelle Wahl, freies Textfeld darunter
+- Ein Tag - eine Episode. Nicht jeder Abschnitt braucht eine Überschrift
 
 ## Stil
 - Wissenschaftlich deskriptiv zu Beginn
