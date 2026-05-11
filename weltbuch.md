@@ -112,4 +112,38 @@ Brüssel, die Grauzone. Ob es stimmt, bleibt offen.
 **Andrei Varga:** Hält Probleme zurück, bis sie sich nicht mehr halten lassen. Behandelt das Scheitern eines Modells als persönliche Angelegenheit.
 
 ----
+## Episode 2 — Montag, 11. Mai 2026
+
+**Ereignisse**
+Yael zeigt Marcel eine Anfrage des DKFZ vom Donnerstag, 
+7. Mai — drei Wochen nachdem Andrei die Abweichung 
+erstmals gesehen haben muss. Andrei hat einen Urlaubsantrag 
+eingereicht, ab sofort, ohne Erklärung. Marcel trifft 
+Kovacs in der Rheingoldhalle: Kovacs hat dieselbe Kurve, 
+seit drei Wochen, von einer anonymen Quelle. Auf den 
+Stufen trifft Marcel Monika Groß. Sie gibt ihm einen 
+USB-Stick mit Daten aus drei weiteren europäischen 
+Gruppen, alle mit derselben Abweichung, alle ohne 
+Publikation. Zuhause liest Marcel den Stick durch. 
+Ordner X enthält eine Hypothese: die Abweichung ist 
+keine Störung, sondern eine biologische Signatur — 
+möglicherweise der Schwellenwert, unterhalb dessen 
+Immunzellen nicht mehr zwischen körpereigen und 
+körperfremd unterscheiden. Um 17:23 Uhr schreibt 
+Andrei: "Ich erkläre es dir. Warte."
+
+**Charakterentwicklung**
+Monika gibt erstmals konkrete Information weiter, 
+bleibt aber bei der Frage "Wer ist wir" ohne Antwort. 
+Andrei bleibt abwesend, meldet sich aber. Kovacs 
+Verbindung nach Lausanne verdichtet sich.
+
+**Neue offene Fäden**
+- Lausanner Auswertung bricht mitten im Satz ab — 
+  wer hat sie gestoppt?
+- Kovacs war in Lausanne. Zufall?
+- Wer ist "wir" in Monikas Sprache?
+- Was weiß Andrei, und warum hat er gewartet?
+- Abendempfang heute: geht Marcel noch hin?
+
 - 
