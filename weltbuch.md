@@ -1,42 +1,4 @@
-## Episode 3 — Dienstag, 12. Mai 2026
 
-**Ereignisse**
-Marcel findet Andrei im Institut für Translationale 
-Immunologie, wohin Sentinel ihn zu einer Besprechung 
-bestellt hat — ohne Marcel. Andrei legt alles offen: 
-die Anfrage vor sechs Wochen, die weitergegebenen 
-Rohdaten, Sentinel, den unbekannten Mann vom TRON. 
-Marcel und Andrei gehen zu Yael. Yael kennt Sentinel 
-bereits — hatte vor drei Jahren eine ähnliche Anfrage 
-abgelehnt. Sie übernimmt: will Monika persönlich 
-sprechen, schickt Andrei zur Identifikation des 
-TRON-Mannes, lässt Marcel Kovacs anrufen.
-
-Kovacs erzählt von Lausanne: Professorin Ferrara 
-hatte den Schwellenwert verstehen wollen, wollte 
-publizieren, wurde systematisch blockiert — 
-Preprint zurückgezogen, Förderung eingestellt. 
-Ferrara ist jetzt bei Roche. Vor einem Jahr schickte 
-sie Kovacs drei Sätze aus einem privaten Account: 
-Jemand habe den Schwellenwert inzwischen verstanden. 
-Was er reguliert. Was passiert, wenn man ihn 
-gezielt verschiebt. "Es wäre wichtig, dass das 
-nicht in den falschen Händen bleibt." Danach: 
-kein Kontakt mehr. Account gelöscht.
-
-**Charakterentwicklung**
-Yael erweist sich als zentrale Figur mit eigenem 
-Vorwissen. Andrei hat durch vollständiges Offenlegen 
-eine Art Umkehrung vollzogen. Kovacs ist kein 
-neutraler Wissenschaftler mehr — er hat Angst, 
-benennt sie aber nicht direkt.
-
-**Neue offene Fäden**
-- Wer ist der Mann vom TRON? (Andrei identifiziert)
-- Was weiß Sentinel wirklich — und seit wann?
-- Ferrara: wo ist sie, was weiß sie noch?
-- Was bedeutet "gezielt verschieben" des Schwellenwerts?
-- Yael trifft Monika: was kommt dabei heraus?
 
 
 ## 
@@ -185,4 +147,43 @@ Kovacs Verbindung nach Lausanne verdichtet sich.
 - Was weiß Andrei, und warum hat er gewartet?
 - Abendempfang heute: geht Marcel noch hin?
 
-- 
+  
+## Episode 3 — Dienstag, 12. Mai 2026
+
+**Ereignisse**
+Marcel findet Andrei im Institut für Translationale 
+Immunologie, wohin Sentinel ihn zu einer Besprechung 
+bestellt hat — ohne Marcel. Andrei legt alles offen: 
+die Anfrage vor sechs Wochen, die weitergegebenen 
+Rohdaten, Sentinel, den unbekannten Mann vom TRON. 
+Marcel und Andrei gehen zu Yael. Yael kennt Sentinel 
+bereits — hatte vor drei Jahren eine ähnliche Anfrage 
+abgelehnt. Sie übernimmt: will Monika persönlich 
+sprechen, schickt Andrei zur Identifikation des 
+TRON-Mannes, lässt Marcel Kovacs anrufen.
+
+Kovacs erzählt von Lausanne: Professorin Ferrara 
+hatte den Schwellenwert verstehen wollen, wollte 
+publizieren, wurde systematisch blockiert — 
+Preprint zurückgezogen, Förderung eingestellt. 
+Ferrara ist jetzt bei Roche. Vor einem Jahr schickte 
+sie Kovacs drei Sätze aus einem privaten Account: 
+Jemand habe den Schwellenwert inzwischen verstanden. 
+Was er reguliert. Was passiert, wenn man ihn 
+gezielt verschiebt. "Es wäre wichtig, dass das 
+nicht in den falschen Händen bleibt." Danach: 
+kein Kontakt mehr. Account gelöscht.
+
+**Charakterentwicklung**
+Yael erweist sich als zentrale Figur mit eigenem 
+Vorwissen. Andrei hat durch vollständiges Offenlegen 
+eine Art Umkehrung vollzogen. Kovacs ist kein 
+neutraler Wissenschaftler mehr — er hat Angst, 
+benennt sie aber nicht direkt.
+
+**Neue offene Fäden**
+- Wer ist der Mann vom TRON? (Andrei identifiziert)
+- Was weiß Sentinel wirklich — und seit wann?
+- Ferrara: wo ist sie, was weiß sie noch?
+- Was bedeutet "gezielt verschieben" des Schwellenwerts?
+- Yael trifft Monika: was kommt dabei heraus? 
