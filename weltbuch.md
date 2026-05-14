@@ -181,9 +181,81 @@ eine Art Umkehrung vollzogen. Kovacs ist kein
 neutraler Wissenschaftler mehr — er hat Angst, 
 benennt sie aber nicht direkt.
 
+## Episode 4 — Dienstag, 12. Mai 2026, Nachmittag
+
+**Ereignisse**
+Andrei identifiziert den Mann vom TRON: Dr. Martin Löwer, 
+Computationale Immunologie. Kovacs bestätigt: Löwer war 
+2023 als externer Gutachter in Lausanne, Mandat unbekannt. 
+Yael organisiert das Treffen mit Monika für 17 Uhr. 
+Im Gespräch zu dritt legt Monika erstmals vollständig 
+offen, was Sentinel weiß:
+
+Der Schwellenwert ist real. Unterhalb von 30–70 nM 
+wechseln regulatorische T-Zellen in einen Toleranzmodus 
+gegenüber körperfremden Strukturen. Das Immunsystem 
+hat eine unbekannte Regulationsebene. Wer sie versteht, 
+kann sie verschieben — in beide Richtungen.
+
+Die Daten sind bereits abgeflossen. An jemanden, 
+dessen Interesse nicht bessere, sondern kontrolliert 
+schlechtere Immuntherapien sind. Nicht nachweisbar 
+schlechter — natürlich wirkend schlechter.
+
+**Charakterentwicklung**
+Monika trifft erstmals eine sichtbare Entscheidung 
+im Gespräch. Yael führt das Gespräch, nicht Marcel — 
+sie ist die eigentliche Gegenspielerin Sentinels.
+
+**Neue offene Fäden**
+- Wer hat die Daten? Welche Organisation profitiert 
+  von kontrollierbarem Immunversagen?
+- Löwers Rolle in Lausanne: Beobachter oder Akteur?
+- Ferrara: lebt sie noch, ist sie erreichbar?
+- Was will Sentinel konkret von TransProteome — 
+  jetzt, wo alles offen liegt?
+- Morgen: Anwalt, Andreis Bericht, letzter CIMT-Tag.
+
+- 
+
 **Neue offene Fäden**
 - Wer ist der Mann vom TRON? (Andrei identifiziert)
 - Was weiß Sentinel wirklich — und seit wann?
 - Ferrara: wo ist sie, was weiß sie noch?
 - Was bedeutet "gezielt verschieben" des Schwellenwerts?
-- Yael trifft Monika: was kommt dabei heraus? 
+- Yael trifft Monika: was kommt dabei heraus?
+
+- ## Episode 5 — Mittwoch, 13. Mai 2026
+
+**Ereignisse**
+Andreis schriftlicher Bericht liegt bei Yael. Anwalt 
+Bergmann kommt, stellt Fragen, gibt bis Freitag Antwort 
+zur Haftungsfrage. Yael teilt Marcel mit, was Monika 
+nach seinem Abgang noch gesagt hat: Beitreten bedeutet 
+Weiterforschen ohne Publikation, alles an Sentinel — 
+dafür "Schutz" vor denjenigen, denen die Daten 
+bereits gehören.
+
+Kovacs ruft vom Bahnhof an: er hat heute Morgen eine 
+anonyme Mail bekommen. Anhang: ein Foto von ihm, 
+heute früh, vor seinem Hotel, aus einem Fenster 
+gegenüber aufgenommen. Keine Nachricht, nur das Bild.
+
+Marcel schreibt Monika: heute Abend.
+
+**Charakterentwicklung**
+Yael formuliert die Lage präzise: was TransProteome 
+hat, ist nicht die Daten, sondern das Wissen wie man 
+die Frage stellt. Das ist der eigentliche Wert.
+Kovacs zeigt erstmals offen Angst — verkleidet als 
+Sachlichkeit.
+
+**Neue offene Fäden**
+- Wer hat Kovacs fotografiert — Sentinel oder die 
+  andere Seite?
+- Was bedeutet "Schutz" konkret — und vor wem 
+  genau?
+- Abendtreffen mit Monika: was will sie sagen, 
+  was sie bisher nicht gesagt hat?
+- Ferrara in Basel: erreicht sie jemand?
+- Löwer: weiß er, dass er identifiziert wurde?
