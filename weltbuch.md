@@ -1,4 +1,4 @@
-
+e
 
 
 ## 
@@ -335,4 +335,62 @@ aktiv statt reaktiv.
 - Bergmann: seine Antwort zur Haftungsfrage 
   steht noch aus.
 
+## Episode 8 — Freitag, 15. Mai 2026
+
+**Ereignisse**
+Ferrara kommt mit dem Zug aus Basel, Ankunft 
+Mainz HBF 11 Uhr. Marcel trifft sie am Bahnhof.
+Café am Schillerplatz, Brückentag, ruhig.
+
+Ferrara enthüllt Seite neun der Lausanner 
+Auswertung: sie haben den Schwellenwert nicht 
+nur beobachtet, sondern verschoben. In vitro.
+Eine Substanzklasse, die regulatorische T-Zellen 
+in den Toleranzmodus zwingt — außerhalb des 
+natürlichen Konzentrationsbereichs, in keinem 
+Standardscreening nachweisbar.
+
+Löwer hat in Lausanne durch einen fingierten 
+Methodikfehler ein halbes Jahr Arbeit blockiert 
+bis die Förderung wegfiel.
+
+Im März 2026 fand Ferrara in einer Roche-
+internen Datenbank eine Phase-II-Studie 
+(Lungenkarzinom, Immuntherapie): alle 
+Non-Responder lagen im Bereich 30–70 nM.
+Die Studie läuft, die Ergebnisse werden als 
+normale Varianz publiziert werden. Niemand 
+wird die Selektion sehen.
+
+Ferrara hat alle Daten auf einem verschlüsselten 
+Laufwerk, das sie seit zwei Jahren trägt.
+Sie will gemeinsam publizieren: TransProteome 
+und die Überreste der Lausanner Gruppe — 
+das ist sie, allein.
+
+Marcel nimmt sie mit ins Institut. Heute.
+
+**Charakterentwicklung**
+Ferrara ist nicht Opfer und nicht Heldin.
+Sie hat neun Monate gewartet, aus Angst,
+aus berechtigtem Misstrauen — und ist 
+trotzdem gekommen, als die Entscheidung 
+gefallen war. Das ist Integrität ohne 
+Romantisierung.
+
+Marcel handelt jetzt ohne Entscheidungspause.
+Der Moment fordert keine Wahl mehr.
+
+**Neue offene Fäden**
+- Was enthält das verschlüsselte Laufwerk 
+  konkret — reicht es für eine Publikation?
+- Wie reagiert Yael auf Ferrara?
+- Wie schnell kann Andrei die Daten 
+  zusammenführen?
+- Wo ist Löwer — und weiß er, dass 
+  Ferrara in Mainz ist?
+- Die Roche-Studie: wer hat sie manipuliert,
+  weiß Roche davon?
+- Spiegel: reagieren sie, bevor die 
+  Publikation eingereicht ist?
 
