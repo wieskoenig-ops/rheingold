@@ -259,3 +259,80 @@ Sachlichkeit.
   was sie bisher nicht gesagt hat?
 - Ferrara in Basel: erreicht sie jemand?
 - Löwer: weiß er, dass er identifiziert wurde?
+
+## Episode 6 — Mittwoch, 13. Mai 2026, Abend
+
+**Ereignisse**
+Monika bestellt Marcel in den Zollhafen. Sie enthüllt:
+Das Foto von Kovacs war nicht von Sentinel. Jemand 
+anderes beobachtet. Löwer ist keine Einzelperson 
+sondern eine Schnittstelle zu einer Struktur, die 
+Sentinel intern "Spiegel" nennt — kein Unternehmen, 
+keine Behörde, ein Netzwerk das nur indirekt sichtbar 
+wird. Ziel: Kontrolle über das Ergebnis des 
+Schwellenwert-Mechanismus, nicht die Forschung.
+Ferrara: seit neun Monaten kein Kontakt zu Sentinel.
+Löwer hat heute das TRON-Institut verlassen, 
+ohne Abmeldung. Sein Büro ist leer.
+
+Monikas Forderung: den Mechanismus vollständig 
+beschreiben, peer-reviewed publizieren, bevor 
+Spiegel ihn hat. Öffentlichkeit als einziger Schutz.
+
+Marcel sagt: morgen früh mit Yael.
+
+Abschließend: "Sagen Sie ihr, dass ich 2023 
+auch abgelehnt hätte. An ihrer Stelle."
+
+**Charakterentwicklung**
+Monika zeigt erstmals Erschöpfung. Die Distanz 
+fällt teilweise. Sie vertraut Marcel etwas an, 
+das sie Yael nicht direkt sagt — das ist eine 
+Entscheidung, keine Nachlässigkeit.
+
+**Neue offene Fäden**
+- Wo ist Löwer?
+- Wo ist Ferrara wirklich, ist sie in Sicherheit?
+- Wer sind Spiegel konkret?
+- Wie schnell kann Andrei den Mechanismus 
+  vollständig beschreiben?
+- Was entscheidet Yael morgen früh?
+
+## Episode 7 — Donnerstag, 14. Mai 2026
+
+**Ereignisse**
+Christi Himmelfahrt, Institut geschlossen. Marcel 
+und Yael treffen sich trotzdem. Yael hat die Nacht 
+mit einer einzigen Frage verbracht: was passiert, 
+wenn sie nichts tun. Die Antwort: unkontrolliertes 
+Immunversagen ohne Gegenwicht, ohne dass jemand 
+nach dem Warum sucht.
+
+Entscheidung: sie publizieren.
+
+Andrei hat in den Metadaten der Lausanner Daten 
+drei unvermittelte Dateien gefunden — Ferraras 
+nicht verlinkte Auswertungsreihe. Er braucht 
+die vollständigen Daten.
+
+Marcel kontaktiert Kovacs: gibt es einen Weg 
+zu Ferrara? Kovacs kennt jemanden, der noch 
+privaten Kontakt zu ihr hat. Um 11 Uhr: 
+Ferrara hat geantwortet. Sie kommt nach Mainz.
+
+**Charakterentwicklung**
+Yael trifft die eigentliche Entscheidung der 
+Geschichte — nicht aus Idealismus, sondern aus 
+der nüchternen Konsequenz des Unterlassens. 
+Das ist ihr Moment. Kovacs handelt erstmals 
+aktiv statt reaktiv.
+
+**Neue offene Fäden**
+- Wann kommt Ferrara, was weiß sie noch?
+- Was sind die drei unverlinkten Dateien?
+- Wo ist Löwer — und was tut er?
+- Wie viel Zeit bleibt, bevor Spiegel reagiert?
+- Bergmann: seine Antwort zur Haftungsfrage 
+  steht noch aus.
+
+
