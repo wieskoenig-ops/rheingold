@@ -394,3 +394,49 @@ Der Moment fordert keine Wahl mehr.
 - Spiegel: reagieren sie, bevor die 
   Publikation eingereicht ist?
 
+## Episode 9 — Samstag, 16. Mai 2026
+
+**Ereignisse**
+Die Nacht von Freitag auf Samstag: Andrei, Ferrara,
+Marcel arbeiten durch. Ferrara zeigt die vollständigen
+Lausanner Daten — Strukturformeln, Bindungsanalysen,
+der Interaktionsmechanismus. Andrei: "Das ist elegant."
+Ferrara: "Das ist das Problem."
+
+Samstagmorgen 7 Uhr: Marcel erhält Anruf, Schweizer
+Nummer, unbekannte Stimme. Der Mann bestreitet, 
+Spiegel zu sein — sagt, Sentinel habe den Namen
+erfunden. Bittet Marcel zu publizieren. Nicht um
+Sentinel zu stoppen, sondern damit niemand die
+Deutungshoheit bekommt. "Niemand sollte das
+erklären. Es sollte Wissenschaft sein."
+
+Bergmann kommt Samstagvormittag. Juristische Lage:
+Andreis Vertragsbruch ist eindeutig, aber Sentinels
+Datenverwertung ist eingeschränkt, weil die Erhebung
+unter falschen Voraussetzungen stattfand. Empfehlung:
+formales Disziplinarverfahren, formal abschließen.
+"Wenn Sie schneller publizieren als Sentinel reagieren
+kann, ist der Schaden im Wesentlichen null."
+
+19:14 Uhr: Erster vollständiger Entwurf.
+24 Seiten. Autoren: Varga, Ferrara, Signac, Kovacs.
+Plan: Montag Preprint und Journaleinreichung parallel.
+
+**Charakterentwicklung**
+Ferrara schließt den Kreis ihrer eigenen Geschichte:
+"Es gibt keine Struktur, der man einfach vertrauen 
+kann. Es gibt nur das Paper." Das ist keine 
+Kapitulation, sondern Klarheit.
+
+Andrei arbeitet ohne Selbstdarstellung — er macht
+das Schwerste, als wäre es das Selbstverständlichste.
+
+**Neue offene Fäden**
+- Wer war die Schweizer Stimme wirklich?
+- Wie reagiert Kovacs auf den Entwurf?
+- Reagiert Sentinel vor Montag?
+- Wo ist Löwer?
+- Was passiert nach der Publikation —
+  mit der Roche-Studie, mit Spiegel,
+  mit Monika?
